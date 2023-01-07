@@ -12,8 +12,12 @@ const CONFIG = {
   },
   projects: [
     {
-      name: '',
-      href: ''
+      name: '[WEB]WWW Exhibition',
+      href: 'https://wwweb.kr'
+    },
+    {
+      name: '[MOBILE]WWW Exhibition',
+      href: 'https://m.wwweb.kr'
     }
   ],
   // blog setting (required)
