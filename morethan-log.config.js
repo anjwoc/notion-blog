@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: '',
+    title: 'FlyingPotato',
     description: 'welcome to anjwoc log',
     theme: 'auto' // ['light', 'dark', 'auto']
   },
