@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: 'Jeong Jae Cheol',
+    name: 'anjwoc',
     image: '/avatar.svg',  // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: 'backend engineer',
-    bio: '...',
+    bio: 'Junior Backend Engineer | South Korea',
     email: 'anjwoc@gmail.com',
     linkedin: '',
     github: 'anjwoc',
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: 'anjwoc',
+    title: '',
     description: 'welcome to anjwoc log',
     theme: 'auto' // ['light', 'dark', 'auto']
   },
